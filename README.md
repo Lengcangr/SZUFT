@@ -1,4 +1,4 @@
-# 深圳大学大学金融科技研讨班(SZU Workshop on Financial Technology)
+# 深圳大学金融科技研讨班(SZU Workshop on Financial Technology)
 
 ## 零、必读
 
