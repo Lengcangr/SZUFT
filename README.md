@@ -12,7 +12,6 @@
 ## 2. 文献阅读分享班
 
 * 文献上传方法请阅读 [SZUFT github 使用说明](./1.公用文档_Public/SZUFT_github_使用说明.md)
-* 请先阅读xxx，在有更好的论文解读规范之前按照文献解读规范准备汇报。
 * 讲解结束后，请上传文献解读的pdf。pdf或文档按月存放，文件统一命名为: *日期姓名论文展示.pdf*，比如：20240830_钟宇辉_论文展示.pdf。
 
 ## 3. 金融科技研习课程
@@ -33,4 +32,4 @@
 
 ### Report bugs：
 
-* open an issue or send an email to xxx at xx@szu.edu.cn
+* open an issue or send an email to xxx at cx@szu.edu.cn
