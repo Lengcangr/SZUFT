@@ -27,7 +27,7 @@
 经常有些学习工具
 1. [The Missing Semester of Your CS Education 中文版](https://missing-semester-cn.github.io/)
 
-   本学习内容主要方便同学掌握金融科技各个领域的只是，收纳各类资料。
+   本学习内容主要方便同学掌握金融科技各个领域的知识，收纳各类资料。
 
 
 ### Report bugs：
