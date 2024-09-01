@@ -4,7 +4,8 @@
 >
 > #### 进入网址 https://github.com/
 >
-> ![image-20240901193342953](C:\Users\64939\AppData\Roaming\Typora\typora-user-images\image-20240901193342953.png)
+> ![image](https://github.com/user-attachments/assets/e2dc225c-e75a-4ced-8576-2957a693f632)
+
 >
 > 点击“ Sign up ”注册
 
@@ -18,15 +19,20 @@
 >
 >* 点击《文献阅读分享_Paper_Shared》
 >
->![image-20240901195322134](C:\Users\64939\AppData\Roaming\Typora\typora-user-images\image-20240901195322134.png)
+>![image](https://github.com/user-attachments/assets/38404821-1064-4b6f-8d15-0832ecaa0434)
+
 >
->* 进入到完成阅读分享的时间所在的文件夹![image-20240901195500883](C:\Users\64939\AppData\Roaming\Typora\typora-user-images\image-20240901195500883.png)
+>* 进入到完成阅读分享的时间所在的文件夹![image](https://github.com/user-attachments/assets/466d00f5-0a6c-44ee-b353-f27164a2b8ed)
+
 >
->* 点击”Add file" ![image-20240901195548180](C:\Users\64939\AppData\Roaming\Typora\typora-user-images\image-20240901195548180.png)
+>* 点击”Add file" ![image](https://github.com/user-attachments/assets/80f9f7a1-6d46-4436-be03-e79b934b8f2d)
+
 >
->* 随后点击"Upload file"![image-20240901195616532](C:\Users\64939\AppData\Roaming\Typora\typora-user-images\image-20240901195616532.png)
+>* 随后点击"Upload file"![image](https://github.com/user-attachments/assets/bee47735-1155-40cc-a7e7-4afd5f7bec72)
+
 >
 >* 添加你的pdf文件或者md 文件，随后点击Commit Change 完成上传。
->  ![image-20240901195906208](C:\Users\64939\AppData\Roaming\Typora\typora-user-images\image-20240901195906208.png)
+>  ![image](https://github.com/user-attachments/assets/ff4578f9-67b6-4c8c-8472-98e83310115b)
+
 >
 >  
