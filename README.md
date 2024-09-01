@@ -32,4 +32,4 @@
 
 ### Report bugs：
 
-* open an issue or send an email to xxx at cx@szu.edu.cn
+* open an issue or send an email to Xin Chen at cx@szu.edu.cn
