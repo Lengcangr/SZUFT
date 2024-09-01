@@ -3,7 +3,7 @@
 ## 0. 必读
 
 - 请新进的成员阅读公用文档。
-- 如果需要上传权限，请自行注册github账号，再邮件联系xx（xx@szu.edu.cn）添加。
+- 如果需要上传权限，请自行注册github账号，注册方法请阅读 [SZUFT github 使用说明](./1.公用文档_Public/SZUFT_github_使用说明.md)，再邮件联系陈鑫（cx@szu.edu.cn）添加。
 
 ## 1. 课题组会
 
