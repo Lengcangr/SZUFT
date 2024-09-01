@@ -28,7 +28,8 @@
 >* 点击”Add file" ![image](https://github.com/user-attachments/assets/80f9f7a1-6d46-4436-be03-e79b934b8f2d)
 
 >
->* 随后点击"Upload file"![image](https://github.com/user-attachments/assets/bee47735-1155-40cc-a7e7-4afd5f7bec72)
+>* 随后点击"Upload file"![00e217575db0ca0b8591392b06045f2](https://github.com/user-attachments/assets/3d6c1649-875b-408a-809f-d6d1422eac9e)
+
 
 >
 >* 添加你的pdf文件或者md 文件，随后点击Commit Change 完成上传。
